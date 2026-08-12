@@ -94,13 +94,3 @@ pypdf, BeautifulSoup4.
 - Persist jobs/resumes to SQLite so history survives across sessions.
 - Batch mode: point it at a list of company career pages and auto-crawl
   open roles.
-
-## Resume bullet points (for your CV)
-
-- *Built an end-to-end AI job-application assistant (Python, Streamlit,
-  Claude API) that parses resumes/job postings, ranks fit across
-  postings via TF-IDF, and generates tailored cover letters through an
-  LLM-driven skill-gap analysis pipeline.*
-- *Designed a two-tier matching architecture separating a free local
-  similarity layer from an LLM-based deep analysis layer to balance
-  speed, cost, and accuracy.*
