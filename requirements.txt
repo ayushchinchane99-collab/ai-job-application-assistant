@@ -1,0 +1,6 @@
+streamlit>=1.35
+anthropic>=0.34
+pypdf>=4.2
+requests>=2.31
+beautifulsoup4>=4.12
+scikit-learn>=1.4
